@@ -13,6 +13,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  icons: {
+    icon: '/icon.svg',
+  },
   title: {
     default: 'Sparkle Clean NYC | Professional Cleaning Services in New York',
     template: '%s | Sparkle Clean NYC',
@@ -41,7 +44,7 @@ export const metadata: Metadata = {
   },
   // Replace with your actual token from Google Search Console → Settings → Ownership verification
   verification: {
-    google: 'REPLACE_WITH_GOOGLE_SEARCH_CONSOLE_TOKEN',
+    google: 'w2-fiI5u5I3_SnpSBqB44C4euDYqllOvNHfKBlfhVlQ',
   },
 };
 
