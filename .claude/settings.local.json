@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(if \\(-not $?\\) { \"docs dir not found\" })",
+      "PowerShell(if \\(-not $?\\) { \"not installed\" })",
+      "Bash(Get-ChildItem -Path \"f:\\\\nyc-cleanners\\\\src\" -Recurse -File)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Sort-Object)",
+      "Bash(npx tsc *)",
+      "Bash(npx next *)",
+      "Bash(git add *)"
+    ]
+  }
+}
