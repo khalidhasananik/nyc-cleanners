@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-
-Host: https://aniktests.online
-Sitemap: https://aniktests.online/sitemap.xml

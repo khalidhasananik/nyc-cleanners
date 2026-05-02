@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="8" fill="#2563EB"/>
-  <!-- Sparkle star -->
-  <path d="M16 5 L17.2 13.2 L25 12 L18.8 17.2 L22 25 L16 20 L10 25 L13.2 17.2 L7 12 L14.8 13.2 Z" fill="white"/>
-  <!-- Small sparkles -->
-  <circle cx="7" cy="7" r="1.2" fill="#93C5FD"/>
-  <circle cx="25" cy="7" r="0.8" fill="#BFDBFE"/>
-  <circle cx="25" cy="25" r="1" fill="#93C5FD"/>
-</svg>
