@@ -2,6 +2,8 @@ import type { MetadataRoute } from 'next';
 import { services } from '@/lib/services';
 import { blogPosts } from '@/lib/blog-posts';
 
+export const dynamic = 'force-static';
+
 const BASE = 'https://aniktests.online';
 
 export default function sitemap(): MetadataRoute.Sitemap {
